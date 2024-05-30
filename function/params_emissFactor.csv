@@ -1,0 +1,11 @@
+process,unit,value
+coal_mine,g/kwh,275.1
+coal_trans,g/kwh,14.8
+coal_fireplant,g/kwh,801.7
+bio_absorb_rate,g/kwh,375.72
+bio_field_transfer,g/kwh,2.36
+bio_pretreat1,g/kwh,1.1
+bio_storage,g/kwh,0.295
+bio_road_transfer,g/(kWh*km),0.009
+bio_pretreat2,g/kwh,2.457
+ccs_rate,%,90
